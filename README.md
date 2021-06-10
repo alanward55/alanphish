@@ -12,7 +12,7 @@ Alat phishing untuk akun:
 [09] PlayStation  [19] Reddit       [29] VK
 [10] GitHub       [20] Adobe
 ```
-![Screenshot](screenshot.png)
+![Screenshot](sites/screenshot.png)
 
 ## Peringatan penggunaan ilegal!!
 Penggunaan Shellphish untuk menyerang target tanpa persetujuan bersama sebelumnya adalah ilegal.<br>
