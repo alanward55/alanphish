@@ -27,7 +27,7 @@ printf '\e[1;92m                                                                
 printf "\n"
 printf "\e[1;31m               .:.:.\e[0m\e[1;31m Copyright © 2021 \e[0m\e[1;31m.:.:.\e[0m\n\n"
 printf '\e[1;92m +-----------------------------------------------------------+\e[0m\n'
-printf '\e[1;92m |Script ini dibuat oleh alanward55 pada tanggal 05 Juni 2021|\e[0m\n'
+printf '\e[1;92m |Script ini dibuat oleh alanward55 pada tanggal 10 Juni 2021|\e[0m\n'
 printf '\e[1;92m +-----+-------------------------+---------------------+-----+\e[0m\n'
 printf '\e[1;92m       |Email: ondeuli@gmail.com |Phone: +6285326728933|\e[0m\n'
 printf '\e[1;92m       +-------------------------+---------------------+\e[0m\n'
