@@ -27,8 +27,45 @@ apt install git wget php unzip curl -y
 git clone https://github.com/alanward55/alanphish
 cd alanphish
 chmod a+x shellphish.sh
-bash shellphish.sh
+
 ```
+
+Download aplikasi vpn (saran: turbo vpn) di playstore. <br>
+[https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn] <br>
+Aktifkan vpn dengan server US (New York) <br><br>
+
+Nyalakan hotspot<br><br>
+
+Masuk termux:<br><br>
+
+cd alanphish<br><br>
+
+bash shellphish.sh<br><br>
+
+st (enter) <br><br>
+
+-----------===============---------------<br><br>
+
+Eksekusi script:<br><br>
+Pilih nomor sesuai akun yang mau di hack, <br>
+Contoh : 1 <br>
+
+1 adalah opsi buat fb<br><br>
+
+Kemudian pilih halaman yang nanti akan dimunculkan, (saran pilih 1 untuk fb) <br><br>
+
+Kemudian pilih server nya, (saran pilih 2 yang stabil) <br>
+Tunggu lumayan lama, karena sedang memuat server. <br><br>
+
+Setelah itu tunggu beberapa saat sampai server memunculkan link<br><br>
+
+Copy link dan paste kan pada target (via wa, massenger, dm, dll sesuai selera) <br><br>
+
+## PENTING!!!!! 
+"Jangan sampai termux berhenti beroperasi karena akan menyebabkan putusnya server, pastikan sinyal kuat, vpn selalu terhubung, hotspot selalu aktif." <br><br>
+
+Setelah itu tunggu sampai korban memasukkan id dan sandinya, yang mana id dan sandi akan langsung terlihat di termux.
+
 ## Untuk Update
 ```
 cd alanphish
